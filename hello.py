@@ -1,5 +1,6 @@
 # hello.py
-print("This is another string! Welcome!")
+print("Hello from another student!")
+
 
 
 
