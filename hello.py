@@ -1,7 +1,6 @@
 # hello.py
-print("This is another string!")
-print("Welcome!")
- new_greeting
+print("This is another string! Welcome!")
+
 
 
 
